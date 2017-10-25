@@ -1,54 +1,53 @@
-2017-10-19T12:18:39.961Z - normal: Load ~/.CocosCreator/settings.json
-2017-10-19T12:18:39.965Z - normal: checking language setting...
-2017-10-19T12:18:39.965Z - normal: Language: zh
-2017-10-19T12:18:41.435Z - success: protocol editor-framework registered
-2017-10-19T12:18:41.436Z - success: protocol app registered
-2017-10-19T12:18:41.436Z - success: protocol theme registered
-2017-10-19T12:18:41.436Z - success: protocol profile registered
-2017-10-19T12:18:41.436Z - success: protocol packages registered
-2017-10-19T12:18:41.436Z - success: protocol unpack registerred
-2017-10-19T12:18:41.436Z - success: protocol disable-commonjs registerred
-2017-10-19T12:18:41.812Z - normal: connected!
-2017-10-19T12:18:41.821Z - normal: Check project F:\create game\start_project
-2017-10-19T12:18:41.829Z - normal: Initializing Cocos2d
-2017-10-19T12:18:42.097Z - normal: Initializing Asset Database
-2017-10-19T12:18:42.129Z - success: protocol uuid registerred
-2017-10-19T12:18:42.129Z - success: protocol db registerred
-2017-10-19T12:18:42.129Z - success: protocol thumbnail registerred
-2017-10-19T12:18:42.130Z - normal: Loading editor/builtin packages
-2017-10-19T12:18:42.153Z - success: anysdk loaded
-2017-10-19T12:18:42.288Z - success: assets loaded
-2017-10-19T12:18:42.290Z - success: builder loaded
-2017-10-19T12:18:42.294Z - success: hierarchy loaded
-2017-10-19T12:18:42.297Z - success: inspector loaded
-2017-10-19T12:18:42.298Z - success: keystore loaded
-2017-10-19T12:18:42.301Z - success: node-library loaded
-2017-10-19T12:18:42.303Z - success: package-asset loaded
-2017-10-19T12:18:42.306Z - success: preferences loaded
-2017-10-19T12:18:42.320Z - success: project-importer loaded
-2017-10-19T12:18:42.323Z - success: project-settings loaded
-2017-10-19T12:18:42.325Z - success: ui-kit loaded
-2017-10-19T12:18:42.327Z - success: ui-grid loaded
-2017-10-19T12:18:42.330Z - success: scene loaded
-2017-10-19T12:18:42.332Z - success: sprite-editor loaded
-2017-10-19T12:18:42.336Z - success: store loaded
-2017-10-19T12:18:42.341Z - success: timeline loaded
-2017-10-19T12:18:42.341Z - normal: Loading builtin packages
-2017-10-19T12:18:42.344Z - success: asset-db-debugger loaded
-2017-10-19T12:18:42.346Z - success: code-editor loaded
-2017-10-19T12:18:42.347Z - success: color-picker loaded
-2017-10-19T12:18:42.351Z - success: console loaded
-2017-10-19T12:18:42.353Z - success: package-manager loaded
-2017-10-19T12:18:42.363Z - success: sdkbox loaded
-2017-10-19T12:18:42.368Z - success: tester loaded
-2017-10-19T12:18:42.371Z - success: ui-kit-preview-extra loaded
-2017-10-19T12:18:42.373Z - success: ui-kit-preview loaded
-2017-10-19T12:18:42.376Z - success: ui-tree loaded
-2017-10-19T12:18:43.258Z - normal: Initializing project F:\create game\start_project
-2017-10-19T12:18:43.262Z - normal: Loading packages
-2017-10-19T12:18:43.268Z - normal: Watching packages
-2017-10-19T12:18:43.285Z - normal: Run Application
-2017-10-19T12:18:43.905Z - success: preview server running at http://localhost:7456
-2017-10-19T12:18:48.206Z - normal: 1.5.1
-2017-10-19T12:20:06.460Z - normal: Compiled project javascript file successfully
-2017-10-19T12:21:30.268Z - info: shutdown preview server
+2017-10-25T10:52:26.384Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-25T10:52:26.389Z - normal: checking language setting...
+2017-10-25T10:52:26.389Z - normal: Language: zh
+2017-10-25T10:52:28.706Z - success: protocol editor-framework registered
+2017-10-25T10:52:28.706Z - success: protocol app registered
+2017-10-25T10:52:28.706Z - success: protocol theme registered
+2017-10-25T10:52:28.706Z - success: protocol profile registered
+2017-10-25T10:52:28.706Z - success: protocol packages registered
+2017-10-25T10:52:28.706Z - success: protocol unpack registerred
+2017-10-25T10:52:28.707Z - success: protocol disable-commonjs registerred
+2017-10-25T10:52:29.552Z - normal: connected!
+2017-10-25T10:52:29.561Z - normal: Check project F:\create game\start_project
+2017-10-25T10:52:29.569Z - normal: Initializing Cocos2d
+2017-10-25T10:52:30.629Z - normal: Initializing Asset Database
+2017-10-25T10:52:30.702Z - success: protocol uuid registerred
+2017-10-25T10:52:30.702Z - success: protocol db registerred
+2017-10-25T10:52:30.702Z - success: protocol thumbnail registerred
+2017-10-25T10:52:30.702Z - normal: Loading editor/builtin packages
+2017-10-25T10:52:30.941Z - success: anysdk loaded
+2017-10-25T10:52:31.220Z - success: assets loaded
+2017-10-25T10:52:31.223Z - success: builder loaded
+2017-10-25T10:52:31.227Z - success: hierarchy loaded
+2017-10-25T10:52:31.230Z - success: inspector loaded
+2017-10-25T10:52:31.232Z - success: keystore loaded
+2017-10-25T10:52:31.236Z - success: node-library loaded
+2017-10-25T10:52:31.238Z - success: package-asset loaded
+2017-10-25T10:52:31.241Z - success: preferences loaded
+2017-10-25T10:52:31.256Z - success: project-importer loaded
+2017-10-25T10:52:31.259Z - success: project-settings loaded
+2017-10-25T10:52:31.261Z - success: ui-kit loaded
+2017-10-25T10:52:31.271Z - success: ui-grid loaded
+2017-10-25T10:52:31.274Z - success: scene loaded
+2017-10-25T10:52:31.276Z - success: sprite-editor loaded
+2017-10-25T10:52:31.279Z - success: store loaded
+2017-10-25T10:52:31.285Z - success: timeline loaded
+2017-10-25T10:52:31.285Z - normal: Loading builtin packages
+2017-10-25T10:52:31.298Z - success: asset-db-debugger loaded
+2017-10-25T10:52:31.301Z - success: code-editor loaded
+2017-10-25T10:52:31.309Z - success: color-picker loaded
+2017-10-25T10:52:31.323Z - success: console loaded
+2017-10-25T10:52:31.326Z - success: package-manager loaded
+2017-10-25T10:52:31.373Z - success: sdkbox loaded
+2017-10-25T10:52:31.376Z - success: tester loaded
+2017-10-25T10:52:31.378Z - success: ui-kit-preview-extra loaded
+2017-10-25T10:52:31.381Z - success: ui-kit-preview loaded
+2017-10-25T10:52:31.383Z - success: ui-tree loaded
+2017-10-25T10:52:33.044Z - normal: Initializing project F:\create game\start_project
+2017-10-25T10:52:33.047Z - normal: Loading packages
+2017-10-25T10:52:33.058Z - normal: Watching packages
+2017-10-25T10:52:33.086Z - normal: Run Application
+2017-10-25T10:52:36.079Z - success: preview server running at http://localhost:7456
+2017-10-25T10:52:43.182Z - normal: 1.5.1
+2017-10-25T10:52:56.471Z - info: shutdown preview server
