@@ -1,2 +1,3 @@
-#cocos2d
-示例游戏改进版
+# cocos2d
+Newair
+start project
